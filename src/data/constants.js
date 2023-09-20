@@ -79,84 +79,84 @@ export const award = [
 export const projects = [
   {
     id: 76,
-    date: "-2023",
+    date: "Jan-2023",
     image:
       "Paintings/16.jpg",
     category: "paint",
   },
   {
     id: 1,
-    date: "Jun 2023 - Jul 2023",
+    date: " Jul-2023",
     image:
       "Photos/1.jpg",
     category: "photo",
   },
   {
     id: 2,
-    date: "-2023",
+    date: "Aug-2023",
     image:
       "Photos/2.jpg",
     category: "photo",
   },
   {
     id: 3,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/3.jpg",
     category: "photo",
   },
   {
     id: 52,
-    date: "-2023",
+    date: "Nov-2023",
     image:
       "Designs/5.jpg",
     category: "design",
   },
   {
     id: 4,
-    date: "-2023",
+    date: "Jan-2023",
     image:
       "Photos/4.jpg",
     category: "photo",
   },
   {
     id: 5,
-    date: "-2023",
+    date: "sep-2023",
     image:
       "Photos/5.jpg",
     category: "photo",
   },
   {
     id: 6,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/6.jpg",
     category: "photo",
   },
   {
     id: 7,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Photos/7.jpg",
     category: "photo",
   },
   {
     id: 58,
-    date: "-2023",
+    date: "Feb-2023",
     image:
       "Designs/12.jpg",
     category: "design",
   },
   {
     id: 8,
-    date: "-2023",
+    date: "Jul-2023",
     image:
       "Photos/8.jpg",
     category: "photo",
   },
   {
     id: 9,
-    date: "-2023",
+    date: "Nov-2023",
     image:
       "Photos/9.jpg",
     category: "photo",
@@ -164,105 +164,105 @@ export const projects = [
 
   {
     id: 10,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Photos/10.jpg",
     category: "photo",
   },
   {
     id: 78,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Paintings/5.jpg",
     category: "paint",
   },
   {
     id: 11,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Photos/11.jpg",
     category: "photo",
   },
   {
     id: 12,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Photos/12.jpg",
     category: "photo",
   },
   {
     id: 13,
-    date: "-2023",
+    date: "sep-2023",
     image:
       "Photos/13.jpg",
     category: "photo",
   },
   {
     id: 81,
-    date: "-2023",
+    date: "Dec-2023",
     image:
       "Paintings/2.jpg",
     category: "paint",
   },
   {
     id: 14,
-    date: "-2023",
+    date: "Jan-2023",
     image:
       "Photos/14.jpg",
     category: "photo",
   },
   {
     id: 57,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Designs/8.jpg",
     category: "design",
   },
   {
     id: 62,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Designs/17.jpg",
     category: "design",
   },
   {
     id: 15,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Photos/15.jpg",
     category: "photo",
   },
   {
     id: 16,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Photos/16.jpg",
     category: "photo",
   },
   {
     id: 71,
-    date: "-2023",
+    date: "sep-2023",
     image:
       "Paintings/11.jpg",
     category: "paint",
   },
   {
     id: 17,
-    date: "-2023",
+    date: "Feb-2023",
     image:
       "Photos/17.jpg",
     category: "photo",
   },
   {
     id: 18,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Photos/18.jpg",
     category: "photo",
   },
   {
     id: 19,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Photos/19.jpg",
     category: "photo",
@@ -270,126 +270,126 @@ export const projects = [
   
   {
     id: 21,
-    date: "-2023",
+    date: "Jan-2022",
     image:
       "Photos/21.jpg",
     category: "photo",
   },
   {
     id: 22,
-    date: "-2023",
+    date: "Feb-2023",
     image:
       "Photos/22.jpg",
     category: "photo",
   },
   {
     id: 23,
-    date: "-2023",
+    date: "Jun-2023",
     image:
       "Photos/23.jpg",
     category: "photo",
   },
   {
     id: 24,
-    date: "-2023",
+    date: "Sep-2022",
     image:
       "Photos/24.jpg",
     category: "photo",
   },
   {
     id: 25,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/25.jpg",
     category: "photo",
   },
   {
     id: 26,
-    date: "-2023",
+    date: "Nov-2022",
     image:
       "Photos/26.jpg",
     category: "photo",
   },
   {
     id: 27,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/27.jpg",
     category: "photo",
   },
   {
     id: 28,
-    date: "-2023",
+    date: "Mar-2022",
     image:
       "Photos/28.jpg",
     category: "photo",
   },
   {
     id: 29,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Photos/29.jpg",
     category: "photo",
   },
   {
     id: 30,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Photos/30.jpg",
     category: "photo",
   },
   {
     id: 31,
-    date: "-2023",
+    date: "Aug-2023",
     image:
       "Photos/31.jpg",
     category: "photo",
   },
   {
     id: 32,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Photos/32.jpg",
     category: "photo",
   },
   {
     id: 33,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/33.jpg",
     category: "photo",
   },
   {
     id: 34,
-    date: "-2023",
+    date: "Jul-2022",
     image:
       "Photos/34.jpg",
     category: "photo",
   },
   {
     id: 35,
-    date: "-2023",
+    date: "Jan-2022",
     image:
       "Photos/35.jpg",
     category: "photo",
   },
   {
     id: 36,
-    date: "-2023",
+    date: "Feb-2022",
     image:
       "Photos/36.jpg",
     category: "photo",
   },
   {
     id: 37,
-    date: "-2023",
+    date: "Mar-2022",
     image:
       "Photos/37.jpg",
     category: "photo",
   },
   {
     id: 38,
-    date: "-2023",
+    date: "Apr-2022",
     image:
       "Photos/38.jpg",
     category: "photo",
@@ -397,91 +397,91 @@ export const projects = [
  
   {
     id: 66,
-    date: "-2023",
+    date: "May-2022",
     image:
       "Designs/16.jpg",
     category: "design",
   },
   {
     id: 40,
-    date: "-2023",
+    date: "Jun-2022",
     image:
       "Photos/40.jpg",
     category: "photo",
   },
   {
     id: 41,
-    date: "-2023",
+    date: "Jul-2023",
     image:
       "Photos/41.jpg",
     category: "photo",
   },
   {
     id: 42,
-    date: "-2023",
+    date: "Aug-2023",
     image:
       "Photos/42.jpg",
     category: "photo",
   },
   {
     id: 43,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/43.jpg",
     category: "photo",
   },
   {
     id: 44,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Photos/44.jpg",
     category: "photo",
   },
   {
     id: 45,
-    date: "-2023",
+    date: "Nov-2023",
     image:
       "Photos/45.jpg",
     category: "photo",
   },
   {
     id: 46,
-    date: "-2023",
+    date: "Dec-2023",
     image:
       "Photos/46.jpg",
     category: "photo",
   },
   {
     id: 47,
-    date: "-2023",
+    date: "Jan-2022",
     image:
       "Photos/47.jpg",
     category: "photo",
   }, 
   {
     id: 48,
-    date: "Jun 2023 - Jul 2023",
+    date: "Jul-2023",
     image:
       "Designs/1.jpg",
     category: "design",
   },
   {
     id: 49,
-    date: "-2023",
+    date: "Feb-2022",
     image:
       "Designs/2.jpg",
     category: "design",
   },
   {
     id: 50,
-    date: "-2023",
+    date: "Mar-2022",
     image:
       "Designs/3.jpg",
     category: "design",
   },
   {
     id: 51,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Designs/4.jpg",
     category: "design",
@@ -489,14 +489,14 @@ export const projects = [
  
   {
     id: 53,
-    date: "-2023",
+    date: "Dec-2023",
     image:
       "Designs/6.jpg",
     category: "design",
   },
   {
     id: 54,
-    date: "-2023",
+    date: "Jan-2023",
     image:
       "Designs/7.jpg",
     category: "design",
@@ -504,21 +504,21 @@ export const projects = [
   
   {
     id: 58,
-    date: "-2023",
+    date: "Feb-2023",
     image:
       "Designs/9.jpg",
     category: "design",
   },
   {
     id: 56,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Designs/10.jpg",
     category: "design",
   },
   {
     id: 55,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Designs/11.jpg",
     category: "design",
@@ -526,7 +526,7 @@ export const projects = [
   
   {
     id: 59,
-    date: "-2023",
+    date: "May-2023",
     image:
       "Designs/20.jpg",
     category: "design",
@@ -534,14 +534,14 @@ export const projects = [
 
   {
     id: 60,
-    date: "-2023",
+    date: "Jun-2023",
     image:
       "Designs/19.jpg",
     category: "design",
   },
   {
     id: 61,
-    date: "-2023",
+    date: "Jul-2023",
     image:
       "Designs/18.jpg",
     category: "design",
@@ -549,28 +549,28 @@ export const projects = [
   
   {
     id: 63,
-    date: "-2023",
+    date: "Nov-2023",
     image:
       "Designs/13.jpg",
     category: "design",
   },
   {
     id: 20,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Photos/20.jpg",
     category: "photo",
   },
   {
     id: 64,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Designs/14.jpg",
     category: "design",
   },
   {
     id: 65,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Designs/15.jpg",
     category: "design",
@@ -578,7 +578,7 @@ export const projects = [
   
   {
     id: 82,
-    date: "Jun 2023 - Jul 2023",
+    date: "Jul-2023",
     image:
       "Paintings/1.jpg",
     category: "paint",
@@ -586,49 +586,49 @@ export const projects = [
  
   {
     id: 80,
-    date: "-2023",
+    date: "Aug-2023",
     image:
       "Paintings/3.jpg",
     category: "paint",
   },
   {
     id: 79,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Paintings/4.jpg",
     category: "paint",
   },
   {
     id: 39,
-    date: "-2023",
+    date: "Sep-2023",
     image:
       "Photos/39.jpg",
     category: "photo",
   },
   {
     id: 77,
-    date: "-2023",
+    date: "Oct-2023",
     image:
       "Paintings/6.jpg",
     category: "paint",
   },
   {
     id: 67,
-    date: "-2023",
+    date: "Nov-2023",
     image:
       "Paintings/7.jpg",
     category: "paint",
   },
   {
     id: 68,
-    date: "-2023",
+    date: "Jan-2022",
     image:
       "Paintings/8.jpg",
     category: "paint",
   },
   {
     id: 69,
-    date: "-2023",
+    date: "Feb-2022",
     image:
       "Paintings/9.jpg",
     category: "paint",
@@ -636,7 +636,7 @@ export const projects = [
 
   {
     id: 70,
-    date: "-2023",
+    date: "Mar-2023",
     image:
       "Paintings/10.jpg",
     category: "paint",
@@ -644,28 +644,28 @@ export const projects = [
  
   {
     id: 72,
-    date: "-2023",
+    date: "Apr-2023",
     image:
       "Paintings/12.jpg",
     category: "paint",
   },
   {
     id: 73,
-    date: "-2023",
+    date: "May-2023",
     image:
       "Paintings/13.jpg",
     category: "paint",
   },
   {
     id: 74,
-    date: "-2023",
+    date: "Jun-2023",
     image:
       "Paintings/14.jpg",
     category: "paint",
   },
   {
     id: 75,
-    date: "-2023",
+    date: "Jul-2023",
     image:
       "Paintings/15.jpg",
     category: "paint",
